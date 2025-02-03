@@ -16,7 +16,7 @@
 //    (from https://github.com/davidbau/seedrandom, copied locally)
 //(2) set seedRandom=true; in control_gui.js
 
-var seedRandom=true;
+var seedRandom=false;
 
 function formd(x){return parseFloat(x).toFixed(2);}
 function formd0(x){return parseFloat(x).toFixed(0);}
